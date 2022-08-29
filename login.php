@@ -1,5 +1,4 @@
 <?php
-  // This Login Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
   include "database.php";
   session_start();
   if (isset($_SESSION['admin'])) {
