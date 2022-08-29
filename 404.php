@@ -1,6 +1,5 @@
 <?php
     include "database.php";
-  // This 404 Error Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
 ?>
 <!DOCTYPE html>
 <html>
