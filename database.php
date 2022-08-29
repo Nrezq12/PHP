@@ -1,5 +1,4 @@
 <?php
-  // This Database Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
 $servername = "localhost";
 $username = "root";
 $password = "";
