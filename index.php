@@ -1,5 +1,4 @@
 <?php
-  // This Index Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
   session_start();
     include "database.php";
     // if (!isset($_SESSION['admin']) && !isset($_SESSION['user'])) { // neither admin nor user
