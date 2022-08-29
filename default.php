@@ -1,5 +1,4 @@
 <?php
-  // This Index Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
   session_start();
     include "database.php";
     // if (!isset($_SESSION['admin']) && !isset($_SESSION['user'])) { // neither admin nor user
@@ -77,10 +76,10 @@ window.addEventListener("scroll", function() {
                 <li><a href="#contact">اتصل بنا</a></li>
             </ul>
             <div class="social-media">
-                <a href="https://www.facebook.com/AHmEDAlAsHiii/" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a href="https://twitter.com/ahmed_alashii" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a href="https://www.instagram.com/ahmed_alashii/" target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href="https://github.com/ahmedalashii" target="_blank"><i class="fa fa-github"></i></a>
+                <a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="" target="_blank"><i class="fa fa-instagram"></i></a>
+                <a href="" target="_blank"><i class="fa fa-github"></i></a>
                 <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
             </div> <!-- ./social-media -->
         </nav> <!-- ./nav -->
@@ -424,29 +423,29 @@ window.addEventListener("scroll", function() {
             <div class="contact-info">
                 <h3>بيانات التواصل</h3>
                 <div class="contact-item">
-                    <a href="mailto:ahmedalasher22@gmail.com" target="_blank">
+                    <a href="mailto:d.5831288@gmail.com" target="_blank">
                         <i class="fa fa-envelope"></i>
                     </a>
-                    <a href="mailto:ahmedalasher22@gmail.com" target="_blank">ahmedalasher22@gmail.com</a>
+                    <a href="mailto:d.5831288@gmail.com" target="_blank">d.5831288@gmail.com</a>
                 </div> <!-- ./contact-item -->
                 <div class="contact-item">
-                    <a href="tel:970-592-195200" target="_blank">
+                    <a href="tel:970-594898514" target="_blank">
                         <i class="fa fa-phone"></i>
                     </a>
-                    <a href="tel:00972-592-2195200" target="_blank">00972-59-2195200</a>
+                    <a href="tel:00972-594898514" target="_blank">00972-594898514</a>
                 </div> <!-- ./contact-item -->
                 <div class="contact-item">
-                    <a href="tel:08-2644037" target="_blank">
+                    <a href="tel:0567217294" target="_blank">
                         <i class="fa fa-mobile"></i>
                     </a>
-                    <a href="tel:08-2644037" target="_blank">08-2644037</a>
+                    <a href="tel:0567217294" target="_blank">0567217294</a>
                 </div> <!-- ./contact-item -->
                 <div class="contact-item">
-                    <a href="https://www.instagram.com/ahmed_alashii/" target="_blank">
+                    <a href="https://www.instagram.com/oor._.rezq/" target="_blank">
                         <i class="fa fa-globe"></i>
                     </a>
-                    <a href="https://www.instagram.com/ahmed_alashii/"
-                        target="_blank">www.instagram.com/ahmed_alashii</a>
+                    <a href=""
+                        target="_blank">www.instagram.com/noor._.rezq</a>
                 </div> <!-- ./contact-item -->
             </div> <!-- ./contact-info -->
 
@@ -469,10 +468,10 @@ window.addEventListener("scroll", function() {
                 <span>جميع الحقوق محفوظة 2021.</span>
             </div> <!-- ./footer-logo -->
             <div class="social-media">
-                <a href="https://www.facebook.com/AHmEDAlAsHiii/" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a href="https://twitter.com/ahmed_alashii" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a href="https://www.instagram.com/ahmed_alashii/" target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href="https://github.com/ahmedalashii" target="_blank"><i class="fa fa-github"></i></a>
+                <a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="" target="_blank"><i class="fa fa-instagram"></i></a>
+                <a href="" target="_blank"><i class="fa fa-github"></i></a>
                 <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
             </div> <!-- ./social-media -->
         </div> <!-- ./container -->
