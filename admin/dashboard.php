@@ -1,5 +1,4 @@
 <?php
-    // This Dashboard Page is Completely By Ahmed Hesham Alashi 120191156
     session_start();
     include("../database.php");
     if (isset($_SESSION['user'])) { // if it's user
