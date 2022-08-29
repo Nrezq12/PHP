@@ -1,5 +1,4 @@
 <?php
-  // This Index Page is Completely By Ahmed Hesham Alashi 120191156 and Mohammed Abo Sido 120192308
   session_start();
     include "database.php";
     // if (!isset($_SESSION['admin']) && !isset($_SESSION['user'])) { // neither admin nor user
@@ -64,10 +63,10 @@
                 <li><a href="#contact">اتصل بنا</a></li>
             </ul>
             <div class="social-media">
-                <a href="https://www.facebook.com/AHmEDAlAsHiii/" target="_blank"><i class="fa fa-facebook"></i></a>
-                <a href="https://twitter.com/ahmed_alashii" target="_blank"><i class="fa fa-twitter"></i></a>
-                <a href="https://www.instagram.com/ahmed_alashii/" target="_blank"><i class="fa fa-instagram"></i></a>
-                <a href="https://github.com/ahmedalashii" target="_blank"><i class="fa fa-github"></i></a>
+                <a href="" target="_blank"><i class="fa fa-facebook"></i></a>
+                <a href="" target="_blank"><i class="fa fa-twitter"></i></a>
+                <a href="" target="_blank"><i class="fa fa-instagram"></i></a>
+                <a href="" target="_blank"><i class="fa fa-github"></i></a>
                 <a href="#" target="_blank"><i class="fa fa-linkedin"></i></a>
             </div> <!-- ./social-media -->
         </nav> <!-- ./nav -->
